@@ -30,7 +30,7 @@ Users should be able to:
 
 <!-- TODO -->
 
-[desktop](c:\Users\silviu\AppData\Local\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip{F73034F4-9CEE-4AEC-8102-4A48BCB9CD34}.png)
+![desktop]({C40F18A2-D17D-4E84-95AC-A8A1E8D1852D}.png)
 
 ## Built with
 
