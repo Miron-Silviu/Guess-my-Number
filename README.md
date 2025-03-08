@@ -28,7 +28,9 @@ Users should be able to:
 
 ## Screenshot
 
-![desktop](c:\Users\silviu\AppData\Local\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip{B69F2399-D4D8-4BC5-B10F-4FA060CEF481}.png)
+<!-- TODO -->
+
+[desktop](c:\Users\silviu\AppData\Local\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip{F73034F4-9CEE-4AEC-8102-4A48BCB9CD34}.png)
 
 ## Built with
 
