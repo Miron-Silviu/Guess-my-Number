@@ -24,8 +24,23 @@ Users should be able to:
 
 ## Links
 
-<a href="https://miron-silviu.github.io/Guess-my-Number/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; border-radius: 5px; font-size: 16px;">Click Me</a>
 
+
+
+<style>
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+</style>
+
+<a href="https://miron-silviu.github.io/Guess-my-Number/" class="button">Click Me</a>
 
 
 
