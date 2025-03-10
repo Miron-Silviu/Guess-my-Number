@@ -24,7 +24,7 @@ Users should be able to:
 
 ## Links
 
-[![DEPLOYMENT](https://github.com/Miron-Silviu/Guess-my-Number/blob/main/images/Untitled%403x.png)](https://miron-silviu.github.io/Guess-my-Number/)
+[![DEPLOYMENT](https://github.com/Miron-Silviu/Guess-my-Number/blob/main/images/Frame%201.png)](https://miron-silviu.github.io/Guess-my-Number/)
 
 ## Screenshot
 
