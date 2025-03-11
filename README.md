@@ -2,9 +2,9 @@
 
 ## Table of contents
 
+- [Links](#links)
 - [The challenge](#the-challenge)
 - [Screenshot](#screenshot)
-- [Links](#links)
 - [My process](#my-process)
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
@@ -12,6 +12,10 @@
 - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
+
+## Links
+
+[![DEPLOYMENT](https://github.com/Miron-Silviu/Guess-my-Number/blob/main/images/Frame%201.png)](https://miron-silviu.github.io/Guess-my-Number/)
 
 ## The challenge
 
@@ -22,13 +26,7 @@ Users should be able to:
   -to see the score and highscore
   -to restart the game by pressing the again button.
 
-## Links
-
-[![DEPLOYMENT](https://github.com/Miron-Silviu/Guess-my-Number/blob/main/images/Frame%201.png)](https://miron-silviu.github.io/Guess-my-Number/)
-
 ## Screenshot
-
-<!-- TODO -->
 
 ![desktop]({C40F18A2-D17D-4E84-95AC-A8A1E8D1852D}.png)
 
